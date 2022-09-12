@@ -1,0 +1,14 @@
+html{
+    color: aqua;
+}
+body {
+    font-family: 'Crimson Pro', serif;
+    font-size: 25px;
+  }
+.espacio {
+    padding: 30px;
+}
+.final{
+    padding: 5px;
+    background-color: rgb(23, 131, 131);
+}
